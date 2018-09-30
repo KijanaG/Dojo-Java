@@ -1,0 +1,13 @@
+**/BeltExam/
+BeltExam/
+*zip
+**/target/
+**DS_Store
+target/
+**/Servers/
+*xml
+*cmd
+resources/
+**/resources/
+*metadata
+*class
